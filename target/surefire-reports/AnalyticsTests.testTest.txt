@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: AnalyticsTests.testTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 71.403 s <<< FAILURE! - in AnalyticsTests.testTest
+AnalyticsTests.testTest.NF_22_S4_004_Validate_Product_Category_Is_Provided_In_Price_Line_Responses  Time elapsed: 61.972 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(), "Refresh Pricing completed")]"}
+  (Session info: chrome=79.0.3945.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BICY5QHRAR', ip: '16.99.209.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\morara\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64495}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e0c4d2b1e2866b2bf44ee414b72d6c47
+*** Element info: {Using=xpath, value=//div[contains(text(), "Refresh Pricing completed")]}
+	at AnalyticsTests.testTest.NF_22_S4_004_Validate_Product_Category_Is_Provided_In_Price_Line_Responses(testTest.java:60)
+

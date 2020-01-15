@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="27372" started-at="2019-11-28T15:35:22 CST" finished-at="2019-11-28T15:35:49 CST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="27372" started-at="2019-11-28T15:35:22 CST" finished-at="2019-11-28T15:35:49 CST">
+      <class name="AnalyticsTests.testTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:AnalyticsTests.testTest@42dafa95]" name="setUp" is-config="true" duration-ms="6422" started-at="2019-11-28T15:35:22 CST" finished-at="2019-11-28T15:35:28 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ValidateProductCategoryIsProvidedInPriceLineResponses_22S4_004()[pri:0, instance:AnalyticsTests.testTest@42dafa95]" name="ValidateProductCategoryIsProvidedInPriceLineResponses_22S4_004" duration-ms="18750" started-at="2019-11-28T15:35:28 CST" finished-at="2019-11-28T15:35:47 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateProductCategoryIsProvidedInPriceLineResponses_22S4_004 -->
+        <test-method status="PASS" signature="test()[pri:0, instance:AnalyticsTests.testTest@42dafa95]" name="test" duration-ms="0" started-at="2019-11-28T15:35:47 CST" finished-at="2019-11-28T15:35:47 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:AnalyticsTests.testTest@42dafa95]" name="tearDown" is-config="true" duration-ms="2137" started-at="2019-11-28T15:35:47 CST" finished-at="2019-11-28T15:35:49 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- AnalyticsTests.testTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

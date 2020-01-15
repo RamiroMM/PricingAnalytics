@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: AnalyticsTests.test1
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 49.053 s - in AnalyticsTests.test1

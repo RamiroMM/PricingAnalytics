@@ -1,0 +1,14 @@
+pageObjects\OpportunityAndQuote.class
+pageObjects\QuoteOutput.class
+pageObjects\AdditionalTab.class
+pageObjects\ProductsConfigurations.class
+pageObjects\PricingAndTerms.class
+pageObjects\TopInformation.class
+com\framework\util\Properties.class
+pageObjects\NGQHomePage.class
+pageObjects\OptimusHomePage.class
+AnalyticsTests\testTest.class
+pageObjects\QuotePreValidation.class
+pageObjects\HomeHeaderMenu.class
+com\framework\util\BaseDriver.class
+com\framework\util\Locators.class
